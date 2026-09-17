@@ -6,6 +6,6 @@ int main(){
     int b = 5;
     cout << (a>b)<< endl; // False -> 0
     cout << (a<b)<<endl; // True -> 1
-
+ 
     return 0;
 }
