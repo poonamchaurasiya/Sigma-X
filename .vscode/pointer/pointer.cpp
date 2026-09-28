@@ -5,6 +5,10 @@ int main (){
     int a = 10;
     int*ptr=&a;
 
-    cout<<&a<<"="<< ptr<<"\n";
+    float pi =3.14;
+    float*ptr2=&pi;
+
+    cout<<&a<<"="<< ptr2<<"\n";
+    cout<<&a<<"="<<ptr<<"\n";
     return 0;
 }
